@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HbaseDemo/HbaseDemo.iml" filepath="$PROJECT_DIR$/HbaseDemo/HbaseDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HdfsDemo/HdfsDemo.iml" filepath="$PROJECT_DIR$/HdfsDemo/HdfsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LadamaDemo/LadamaDemo.iml" filepath="$PROJECT_DIR$/LadamaDemo/LadamaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea-hadoop-5.iml" filepath="$PROJECT_DIR$/idea-hadoop-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-project/spark-project.iml" filepath="$PROJECT_DIR$/spark-project/spark-project.iml" />
+    </modules>
+  </component>
+</project>
